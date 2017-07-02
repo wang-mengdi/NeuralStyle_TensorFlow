@@ -1,9 +1,9 @@
 # NeuralStyle_TensorFlow
 
 ## Usage
-tenworflow required
-python main.py content.jpg style.jpg output.jpg contentweight
-example: python main.py prim.jpg star.jpg prim_star.jpg 0.1
+### tenworflow required
+### python main.py content.jpg style.jpg output.jpg contentweight
+### example: python main.py prim.jpg star.jpg prim_star.jpg 0.1
 
 ## Demo
 ### Please see Demo/ folder
